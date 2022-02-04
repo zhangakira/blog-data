@@ -1,6 +1,6 @@
 ---
 title: "TODO List"
-draft: true
+draft: false
 ---
 
 ## TODO
