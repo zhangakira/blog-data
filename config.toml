@@ -1,0 +1,38 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Jianbo Wang | 王健波"
+theme = "ivy"
+disqusShortname = "wjianbo"
+[menu]
+[[menu.main]]
+  identifier = 'translation'
+  name = '翻译'
+  title = 'blog section'
+  url = '/cn/translation/'
+  weight = -111
+[[menu.main]]
+  identifier = 'blog'
+  name = '日志'
+  title = 'blog section'
+  url = '/cn/diary/'
+  weight = -108
+[[menu.main]]
+  identifier = 'tags'
+  name = '标签'
+  title = 'tags'
+  url = '/tags/'
+  weight = -108
+[[menu.main]]
+  identifier = 'about'
+  name = "关于"
+  title = 'blog section'
+  url = '/cn/about/'
+  weight = -11
+
+[params]
+footer = "&copy; [Jianbo Wang](/) 2010 - 2021"
+[params.logo.en]
+img = "/images/logo.png"
+url = "/"
+alt = "Jianbo Wang"
+tag = ""
