@@ -18,5 +18,5 @@ jobs:
           deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }} # secret 中设置好私钥
           external_repository: wjianbo/wjianbo.github.io  # Page 仓库
           publish_branch: master  # Page 仓库的分支
-          publish_dir: . # 静态网页路径
+          publish_dir: .docs # 静态网页路径
           commit_message: ${{ github.event.head_commit.message }}
