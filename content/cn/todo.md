@@ -11,6 +11,9 @@ draft: false
 5. 『国王ランキング』
 6. 『進撃の巨人』
 7. 『江照黎明』
+8. [Miss America](https://m.douban.com/movie/subject/34907421)
+9. [How to build a login page in SwiftUI](https://blckbirds.com/post/login-page-in-swiftui-1/)
+
 
 ## DONE
 1. 『一人称単数』（2022.2.5）
