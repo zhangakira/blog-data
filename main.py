@@ -13,7 +13,7 @@ My personal blog using issues and GitHub Actions (参考 [yihong](https://github
 [RSS Feed](https://raw.githubusercontent.com/{repo_name}/main/feed.xml)
 """
 
-BACKUP_DIR = "BACKUP"
+BACKUP_DIR = "content/cn/issues"
 ANCHOR_NUMBER = 5
 TOP_ISSUES_LABELS = ["Top"]
 TODO_ISSUES_LABELS = ["TODO"]
@@ -278,7 +278,11 @@ def save_issue(issue, me, dir_name=BACKUP_DIR):
         dir_name, f"{issue.number}_{issue.title.replace(' ', '.')}.md"
     )
     with open(md_name, "w") as f:
-        f.write(f"# [{issue.title}]({issue.html_url})\n\n")
+        f.write(f"---\n")
+        f.write(f"title: {issue.title}\n")
+        f.write(f"date: {issue.created_at}\n")
+        f.write(f"tag: {issue.labels[0].name}\n")
+        f.write(f"---\n")
         f.write(issue.body)
         if issue.comments:
             for c in issue.get_comments():
