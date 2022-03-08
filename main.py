@@ -281,7 +281,6 @@ def save_issue(issue, me, dir_name=BACKUP_DIR):
         f.write(f"---\n")
         f.write(f"title: {issue.title}\n")
         f.write(f"date: {issue.created_at}\n")
-        f.write(f"tag: {issue.labels[0].name}\n")
         f.write(f"---\n")
         f.write(issue.body)
         if issue.comments:
