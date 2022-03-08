@@ -30,7 +30,7 @@ disqusShortname = "wjianbo"
   weight = -11
 
 [params]
-footer = "&copy; [Jianbo Wang](/) 2010 - 2021"
+footer = "&copy; [Jianbo Wang](/) 2010 - 2022"
 [params.logo.en]
 img = "/images/logo.png"
 url = "/"
