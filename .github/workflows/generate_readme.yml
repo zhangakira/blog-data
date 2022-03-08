@@ -48,12 +48,12 @@ jobs:
       - name: Generate new md # if you fork or clone this repo, please delete the curl line unless you know why
         run: |
           source venv/bin/activate
-          python main.py ${{ secrets.ACTIONS_DEPLOY_KEY}} ${{ github.repository }} --issue_number '${{ github.event.issue.number }}'
+          python main.py ${{ secrets.G_T }} ${{ github.repository }} --issue_number '${{ github.event.issue.number }}'
 
       - name: Push README
         uses: github-actions-x/commit@v2.6
         with:
-          github-token: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+          github-token: ${{ secrets.G_T }}
           commit-message: "Refresh README AND BACK UP"
           files: README.md feed.xml BACKUP/
           rebase: "true"
