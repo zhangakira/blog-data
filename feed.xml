@@ -1,16 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/wjianbo/blog-data</id><title>RSS feed of wjianbo's blog-data</title><updated>2022-03-09T23:31:08.966987+00:00</updated><author><name>wjianbo</name><email>jnb.wang@gmail.com</email></author><link href="https://github.com/wjianbo/blog-data"/><link href="https://raw.githubusercontent.com/wjianbo/blog-data/main/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><entry><id>https://github.com/wjianbo/blog-data/issues/5</id><title>阅读</title><updated>2022-03-09T23:31:09.250267+00:00</updated><content type="html"><![CDATA[<ul>
+<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/wjianbo/blog-data</id><title>RSS feed of wjianbo's blog-data</title><updated>2022-03-09T23:39:15.294507+00:00</updated><author><name>wjianbo</name><email>jnb.wang@gmail.com</email></author><link href="https://github.com/wjianbo/blog-data"/><link href="https://raw.githubusercontent.com/wjianbo/blog-data/main/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><entry><id>https://github.com/wjianbo/blog-data/issues/5</id><title>阅读</title><updated>2022-03-09T23:39:15.613763+00:00</updated><content type="html"><![CDATA[<ul>
 <li><input disabled="" type="checkbox"> 《重构》</li>
 <li><input disabled="" type="checkbox"> 《随机漫步的傻瓜》</li>
 <li><input disabled="" type="checkbox"> 『小説の惑星〜オーシャンラズベリー篇～』（3.7〜）</li>
 <li><input checked="" disabled="" type="checkbox"> 『小説の惑星〜ノーザンブルーベリー篇～』（～3.7）</li>
 <li><input checked="" disabled="" type="checkbox"> 『一人称単数』（～2.5）</li>
 </ul>
-]]></content><link href="https://github.com/wjianbo/blog-data/issues/5" rel="alternate"/><category term="TODO"/><published>2022-03-08T07:33:13+00:00</published></entry><entry><id>https://github.com/wjianbo/blog-data/issues/4</id><title>周记3-1</title><updated>2022-03-09T23:31:09.388733+00:00</updated><content type="html"><![CDATA[<h3>阅读</h3>
+]]></content><link href="https://github.com/wjianbo/blog-data/issues/5" rel="alternate"/><category term="TODO"/><published>2022-03-08T07:33:13+00:00</published></entry><entry><id>https://github.com/wjianbo/blog-data/issues/4</id><title>周记3-1</title><updated>2022-03-09T23:39:15.775949+00:00</updated><content type="html"><![CDATA[<h3>阅读</h3>
 <p><strong>『小説の惑星〜オーシャンラズベリー篇』</strong></p>
-<p>伊坂幸太郎主编的短篇小说集。这是第二本。第二篇『恋愛雑用論』很有趣，忍不住摘译一段：</p>
+<p>伊坂幸太郎主编的短篇小说集。这是第二本。第二篇『恋愛雑用論』很有趣，忍不住想动手翻译一下（很随意的）：</p>
 <blockquote>
-<p>两只狗由各自主人牵着在路上偶遇，它们会去嗅嗅对方的屁股。它们即使终其一生不遇到彼此，依然可以过得很好。但是它们遇到了，就不得不嗅对方的屁股。这就是恋爱。</p>
+<ul>
+<li>两只狗由各自主人牵着在路上偶遇，它们会去嗅嗅对方的屁股。它们即使终其一生不遇到彼此，依然可以过得很好。但是它们遇到了，就不得不嗅对方的屁股。这就是恋爱。</li>
+<li>「我觉得你和某某很般配呢，要不要在一起。」「才不要。那家伙就跟刚从蛋里孵出来一样，而我都能下蛋了。」</li>
+</ul>
 </blockquote>
 <h3>观察</h3>
 <ul>
@@ -38,11 +41,11 @@
 <ul>
 <li><a href="https://wjianbo.github.io/cn/issues/1_%E7%94%A8github.issues%E5%86%99%E5%8D%9A%E5%AE%A2/">用GitHub Issues写博客</a></li>
 </ul>
-]]></content><link href="https://github.com/wjianbo/blog-data/issues/4" rel="alternate"/><published>2022-03-07T22:28:12+00:00</published></entry><entry><id>https://github.com/wjianbo/blog-data/issues/3</id><title>Vim笔记</title><updated>2022-03-09T23:31:09.535233+00:00</updated><content type="html"><![CDATA[<p>记录可以作为生活的方法。以记录为方法的生活，或许可以称为“面向记录生活”或者“记录驱动生活”。</p>
+]]></content><link href="https://github.com/wjianbo/blog-data/issues/4" rel="alternate"/><published>2022-03-07T22:28:12+00:00</published></entry><entry><id>https://github.com/wjianbo/blog-data/issues/3</id><title>Vim笔记</title><updated>2022-03-09T23:39:15.959285+00:00</updated><content type="html"><![CDATA[<p>记录可以作为生活的方法。以记录为方法的生活，或许可以称为“面向记录生活”或者“记录驱动生活”。</p>
 <p>把留下某种记录作为生活的目的，显然是本末倒置。但它不失为一种思考生活的方法。</p>
 <p>这种方法可以归结为一个问题：</p>
 <p><strong>我想留下怎样的生活记录？</strong></p>
-]]></content><link href="https://github.com/wjianbo/blog-data/issues/3" rel="alternate"/><published>2022-03-07T02:42:17+00:00</published></entry><entry><id>https://github.com/wjianbo/blog-data/issues/2</id><title>娱乐</title><updated>2022-03-09T23:31:09.668022+00:00</updated><content type="html"><![CDATA[<h3>动漫</h3>
+]]></content><link href="https://github.com/wjianbo/blog-data/issues/3" rel="alternate"/><published>2022-03-07T02:42:17+00:00</published></entry><entry><id>https://github.com/wjianbo/blog-data/issues/2</id><title>娱乐</title><updated>2022-03-09T23:39:16.105478+00:00</updated><content type="html"><![CDATA[<h3>动漫</h3>
 <ul>
 <li><input disabled="" type="checkbox"> 进击的巨人 最终季</li>
 <li><input disabled="" type="checkbox"> 国王排名</li>
@@ -60,7 +63,7 @@
 <li><input disabled="" type="checkbox"> 塞尔达</li>
 <li><input disabled="" type="checkbox"> 吾之战争</li>
 </ul>
-]]></content><link href="https://github.com/wjianbo/blog-data/issues/2" rel="alternate"/><category term="TODO"/><published>2022-03-07T02:24:15+00:00</published></entry><entry><id>https://github.com/wjianbo/blog-data/issues/1</id><title>用GitHub Issues写博客</title><updated>2022-03-09T23:31:09.801065+00:00</updated><content type="html"><![CDATA[<p>blog 实现了自动部署，又纠结起写作工具。手机上喜欢用熊掌记，但是上传发布还是有些麻烦，于是又想起 issues[^1]。受 <a href="https://github.com/yihong0618">yihong</a> 的<a href="https://github.com/yihong0618/gitblog/issues/177">开源博客</a>启发，想到如下的更新流程：</p>
+]]></content><link href="https://github.com/wjianbo/blog-data/issues/2" rel="alternate"/><category term="TODO"/><published>2022-03-07T02:24:15+00:00</published></entry><entry><id>https://github.com/wjianbo/blog-data/issues/1</id><title>用GitHub Issues写博客</title><updated>2022-03-09T23:39:16.269150+00:00</updated><content type="html"><![CDATA[<p>blog 实现了自动部署，又纠结起写作工具。手机上喜欢用熊掌记，但是上传发布还是有些麻烦，于是又想起 issues[^1]。受 <a href="https://github.com/yihong0618">yihong</a> 的<a href="https://github.com/yihong0618/gitblog/issues/177">开源博客</a>启发，想到如下的更新流程：</p>
 <pre><code class="language-mermaid">graph TD
 A[用 issue 写作] --&gt; |Generate GitBlog README| B[issue 内容添加至 blog 源码仓库]
 B --&gt; |Auto Deploy hugo| C[自动生成静态文件并更新 blog 仓库]
