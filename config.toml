@@ -14,12 +14,6 @@ disqusShortname = "wjianbo"
   identifier = 'blog'
   name = '日志'
   title = 'blog section'
-  url = '/cn/diary/'
-  weight = -108
-[[menu.main]]
-  identifier = 'issue'
-  name = 'Issues'
-  title = 'blog section'
   url = '/cn/issues/'
   weight = -108
 [[menu.main]]
