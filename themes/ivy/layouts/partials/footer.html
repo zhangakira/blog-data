@@ -8,5 +8,10 @@
   </footer>
   </article>
   {{ template "_internal/google_analytics.html" . }}
+  <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
+  <script>
+    mermaid.initialize({startOnLoad: false});
+    mermaid.init(undefined, '.language-mermaid');
+  </script>
   </body>
 </html>
