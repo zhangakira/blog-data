@@ -18,13 +18,14 @@ TODO list from [阅读](https://github.com/wjianbo/blog-data/issues/5)--3 jobs t
 - [ ] 《随机漫步的傻瓜》
 - [ ] 『小説の惑星〜オーシャンラズベリー篇～』（3.7〜）
 
-TODO list from [娱乐](https://github.com/wjianbo/blog-data/issues/2)--9 jobs to do--0 jobs done
+TODO list from [娱乐](https://github.com/wjianbo/blog-data/issues/2)--10 jobs to do--0 jobs done
 - [ ] 进击的巨人 最终季
 - [ ] 国王排名
 - [ ] 海贼王
 - [ ] 不良人 第五季
 - [ ] 勿言推理
 - [ ] 真凶标签
+- [ ] 人生切割术Severance（2022）
 - [ ] 风骚律师 最终季（4.18～
 - [ ] 塞尔达
 - [ ] 吾之战争
