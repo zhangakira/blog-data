@@ -11,11 +11,11 @@ My personal blog using issues and GitHub Actions (参考 [yihong](https://github
 - [阅读](https://github.com/wjianbo/blog-data/issues/5)--2022-03-08
 - [周记3-1](https://github.com/wjianbo/blog-data/issues/4)--2022-03-07
 ## TODO
-TODO list from [阅读](https://github.com/wjianbo/blog-data/issues/5)--3 jobs to do--2 jobs done
+TODO list from [阅读](https://github.com/wjianbo/blog-data/issues/5)--2 jobs to do--3 jobs done
+- [x] 《随机漫步的傻瓜》
 - [x] 『小説の惑星〜ノーザンブルーベリー篇～』（～3.7）
 - [x] 『一人称単数』（～2.5）
 - [ ] 《重构》
-- [ ] 《随机漫步的傻瓜》
 - [ ] 『小説の惑星〜オーシャンラズベリー篇～』（3.7〜）
 
 TODO list from [娱乐](https://github.com/wjianbo/blog-data/issues/2)--10 jobs to do--0 jobs done
