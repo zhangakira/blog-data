@@ -5,11 +5,11 @@ My personal blog using issues and GitHub Actions (参考 [yihong](https://github
 | Name | Link | Desc | 
  | ---- | ---- | ---- |
 ## 最近更新
+- [要做的事](https://github.com/wjianbo/blog-data/issues/9)--2022-03-27
 - [周记3-3](https://github.com/wjianbo/blog-data/issues/8)--2022-03-22
 - [汉兜](https://github.com/wjianbo/blog-data/issues/7)--2022-03-17
 - [周记3-2](https://github.com/wjianbo/blog-data/issues/6)--2022-03-13
 - [阅读](https://github.com/wjianbo/blog-data/issues/5)--2022-03-08
-- [周记3-1](https://github.com/wjianbo/blog-data/issues/4)--2022-03-07
 ## TODO
 TODO list from [阅读](https://github.com/wjianbo/blog-data/issues/5)--5 jobs to do--3 jobs done
 - [x] 《随机漫步的傻瓜》（～2022.3）
