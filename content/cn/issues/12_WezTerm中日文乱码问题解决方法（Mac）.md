@@ -6,3 +6,4 @@ date: 2022-04-08 07:13:58
 ```shell
 export LANG=en_US.UTF-8
 ```
+然后执行 `source ~/.zshrc` 或重启一下 WezTerm 应该就可以了。
