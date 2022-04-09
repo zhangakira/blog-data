@@ -5,11 +5,11 @@ My personal blog using issues and GitHub Actions (参考 [yihong](https://github
 | Name | Link | Desc | 
  | ---- | ---- | ---- |
 ## 最近更新
+- [周记4-1](https://github.com/wjianbo/blog-data/issues/13)--2022-04-09
 - [WezTerm中日文乱码问题解决方法（Mac）](https://github.com/wjianbo/blog-data/issues/12)--2022-04-08
 - [周记3-4](https://github.com/wjianbo/blog-data/issues/11)--2022-03-31
 - [梦](https://github.com/wjianbo/blog-data/issues/10)--2022-03-29
 - [要做的事](https://github.com/wjianbo/blog-data/issues/9)--2022-03-27
-- [周记3-3](https://github.com/wjianbo/blog-data/issues/8)--2022-03-22
 ## TODO
 TODO list from [阅读](https://github.com/wjianbo/blog-data/issues/5)--5 jobs to do--3 jobs done
 - [x] 《随机漫步的傻瓜》（～2022.3）
