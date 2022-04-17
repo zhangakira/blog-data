@@ -12,10 +12,16 @@ date: 2022-04-17
 ### 安装 [ZFVimIM](https://github.com/ZSaberLv0/ZFVimIM)
 安装 vim-plug
 
-macOS/Linux(UNIX)：
+Vim: macOS/Linux(UNIX)：
 ```
 curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
     https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+```
+
+NVim:
+```
+sh -c 'curl -fLo "${XDG_DATA_HOME:-$HOME/.local/share}"/nvim/site/autoload/plug.vim --create-dirs \
+       https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim'
 ```
 
 vimrc 中添加 ZFVimIM 插件：
