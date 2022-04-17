@@ -15,8 +15,16 @@ date: 2022-04-17
 macOS/Linux(UNIX)：
 ```
 curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
-
     https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+```
+
+添加 ZFVimIM 插件：
+
+```
+call plug#begin('~/.vim/plugged')
+Plug 'ZSaberLv0/ZFVimIM'
+Plug 'ZSaberLv0/ZFVimJob'
+call plug#end()
 ```
 ### TODO
 - [ ] 
