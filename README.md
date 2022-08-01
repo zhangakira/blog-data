@@ -6,7 +6,7 @@ My personal blog using issues and GitHub Actions (参考 [yihong](https://github
  | ---- | ---- | ---- |
 ## 最近更新
 - [周记8-1](https://github.com/wjianbo/blog-data/issues/15)--2022-08-01
-- [好久不写](https://github.com/wjianbo/blog-data/issues/14)--2022-08-01
+- [Long Time No Write](https://github.com/wjianbo/blog-data/issues/14)--2022-08-01
 - [周记4-1](https://github.com/wjianbo/blog-data/issues/13)--2022-04-09
 - [WezTerm中日文乱码问题解决方法（Mac）](https://github.com/wjianbo/blog-data/issues/12)--2022-04-08
 - [周记3-4](https://github.com/wjianbo/blog-data/issues/11)--2022-03-31
