@@ -21,14 +21,14 @@ TODO list from [阅读](https://github.com/wjianbo/blog-data/issues/5)--5 jobs t
 - [ ] 《重构》
 - [ ] 『小説の惑星〜オーシャンラズベリー篇～』（3.7〜）
 
-TODO list from [娱乐](https://github.com/wjianbo/blog-data/issues/2)--8 jobs to do--2 jobs done
+TODO list from [娱乐](https://github.com/wjianbo/blog-data/issues/2)--7 jobs to do--3 jobs done
 - [x] 勿言推理
 - [x] 真凶标签
+- [x] 人生切割术Severance（2022）
 - [ ] 进击的巨人 最终季
 - [ ] 国王排名
 - [ ] 海贼王
 - [ ] 不良人 第五季
-- [ ] 人生切割术Severance（2022）
 - [ ] 风骚律师 最终季（4.18～
 - [ ] 塞尔达
 - [ ] 吾之战争
