@@ -11,15 +11,13 @@ My personal blog using issues and GitHub Actions (参考 [yihong](https://github
 - [周记3-4](https://github.com/wjianbo/blog-data/issues/11)--2022-03-31
 - [梦](https://github.com/wjianbo/blog-data/issues/10)--2022-03-29
 ## TODO
-TODO list from [阅读](https://github.com/wjianbo/blog-data/issues/5)--4 jobs to do--4 jobs done
+TODO list from [阅读](https://github.com/wjianbo/blog-data/issues/5)--2 jobs to do--4 jobs done
 - [x] 《重构》
 - [x] 《随机漫步的傻瓜》（～2022.3）
 - [x] 『小説の惑星〜ノーザンブルーベリー篇～』（～3.7）
 - [x] 『一人称単数』（～2.5）
-- [ ] 深夜高速バスに100回ぐらい乗っ   
-- [ ] 神様の友達の友達の友達はぼく
-- [ ] 遅く起きた日曜日にいつもの自分
 - [ ] 『小説の惑星〜オーシャンラズベリー篇～』（3.7〜）
+- [ ] 『クジラアタマの王様』（7.30〜
 
 TODO list from [娱乐](https://github.com/wjianbo/blog-data/issues/2)--7 jobs to do--3 jobs done
 - [x] 勿言推理
