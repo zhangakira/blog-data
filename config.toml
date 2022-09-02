@@ -1,42 +1,37 @@
-baseURL = "https://wjianbo.github.io/"
+baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "Jianbo Wang | 王健波"
+title = "張晶"
 theme = "ivy"
-disqusShortname = "wjianbo"
+disqusShortname = "zhangakira"
 [menu]
-[[menu.main]]
-  identifier = 'translation'
-  name = '翻译'
-  title = 'blog section'
-  url = '/cn/translation/'
-  weight = -111
 [[menu.main]]
   identifier = 'blog'
   name = '日志'
   title = 'blog section'
-  url = '/cn/issues/'
-  weight = -108
+  url = '/cn/daily/'
+  weight = -110
 [[menu.main]]
-  identifier = 'tags'
-  name = '标签'
-  title = 'tags'
-  url = '/tags/'
-  weight = -108
+  identifier = 'archive'
+  name = '总结'
+  title = 'blog section'
+  url = '/cn/summary/'
+  weight = -100
+[[menu.main]]
+  identifier = 'menu'
+  name = '菜谱'
+  title = 'blog section'
+  url = '/cn/menu/'
+  weight = -100
 [[menu.main]]
   identifier = 'about'
   name = "关于"
   title = 'blog section'
   url = '/cn/about/'
   weight = -11
-
 [params]
-footer = "&copy; [Jianbo Wang](/) 2010 - 2022"
-highlightjsCDN = "//cdn.bootcss.com"
-highlightjsLang = ["r", "yaml", "tex"]
-highlightjsTheme = "github"
-highlightjsVersion = "9.12.0"
+footer = "&copy; [Jing Zhang](/) 2010 - 2021"
 [params.logo.en]
 img = "/images/logo.png"
 url = "/"
-alt = "Jianbo Wang"
+alt = "Jing Zhang"
 tag = ""
