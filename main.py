@@ -13,7 +13,7 @@ My personal blog using issues and GitHub Actions (参考 [yihong](https://github
 [RSS Feed](https://raw.githubusercontent.com/{repo_name}/main/feed.xml)
 """
 
-BACKUP_DIR = "content/cn/issues"
+BACKUP_DIR = "content/cn/daily"
 ANCHOR_NUMBER = 5
 TOP_ISSUES_LABELS = ["Top"]
 TODO_ISSUES_LABELS = ["TODO"]
