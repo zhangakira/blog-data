@@ -15,7 +15,7 @@ title: 关于
 
 
 ### 博客链接
-* [王健波](https://wjianbo.github.io/cn/diary/)
+* [王健波](https://wjianbo.github.io/cn/issues/)
 
 * [谢益辉](https://yihui.org/cn/)
 
