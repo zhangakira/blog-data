@@ -1,50 +1,73 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/zhangakira/blog-data</id><title>RSS feed of zhangakira's blog-data</title><updated>2022-09-05T03:04:06.142580+00:00</updated><author><name>zhangakira</name><email>zhangakira1992@gmail.com</email></author><link href="https://github.com/zhangakira/blog-data"/><link href="https://raw.githubusercontent.com/zhangakira/blog-data/main/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><entry><id>https://github.com/zhangakira/blog-data/issues/2</id><title>九月第二周</title><updated>2022-09-05T03:04:06.277133+00:00</updated><content type="html"><![CDATA[<p>很久没去过图书馆了，9月3号去了一次，想学王bob，计划每两周去一次。
+<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/zhangakira/blog-data</id><title>RSS feed of zhangakira's blog-data</title><updated>2022-09-05T03:10:15.637425+00:00</updated><author><name>zhangakira</name><email>zhangakira1992@gmail.com</email></author><link href="https://github.com/zhangakira/blog-data"/><link href="https://raw.githubusercontent.com/zhangakira/blog-data/main/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><entry><id>https://github.com/zhangakira/blog-data/issues/2</id><title>九月第二周</title><updated>2022-09-05T03:10:15.782556+00:00</updated><content type="html"><![CDATA[<p>很久没去过图书馆了，9月3号去了一次，想学王bob，计划每两周去一次。
 本月又开始了多运动以及早起计划。</p>
 <h3>本周早起和运动</h3>
 <table>
 <thead>
 <tr>
+<th align="center">日期</th>
 <th align="center">6点起床</th>
 <th align="center">两次周六野</th>
 <th align="center">两小时阅读</th>
+<th align="center">乒乓球两次以上</th>
 </tr>
 </thead>
 <tbody>
 <tr>
+<td align="center">09/05</td>
+<td align="center">〇</td>
+<td align="center">〇</td>
+<td align="center">〇</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center">09/06</td>
+<td align="center">〇</td>
+<td align="center">〇</td>
+<td align="center">〇</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center">09/07</td>
+<td align="center">〇</td>
+<td align="center">〇</td>
+<td align="center">〇</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center">09/08</td>
+<td align="center">〇</td>
 <td align="center">〇</td>
 <td align="center">〇</td>
 <td align="center">〇</td>
 </tr>
 <tr>
+<td align="center">09/09</td>
+<td align="center">〇</td>
+<td align="center">〇</td>
+<td align="center">〇</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center">09/10</td>
+<td align="center">〇</td>
+<td align="center">〇</td>
+<td align="center">〇</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center">09/11</td>
+<td align="center">〇</td>
 <td align="center">〇</td>
 <td align="center">〇</td>
 <td align="center">〇</td>
 </tr>
 <tr>
+<td align="center">09/12</td>
 <td align="center">〇</td>
 <td align="center">〇</td>
 <td align="center">〇</td>
-</tr>
-<tr>
-<td align="center">〇</td>
-<td align="center">〇</td>
-<td align="center">〇</td>
-</tr>
-<tr>
-<td align="center">〇</td>
-<td align="center">〇</td>
-<td align="center">〇</td>
-</tr>
-<tr>
-<td align="center">〇</td>
-<td align="center">〇</td>
-<td align="center">〇</td>
-</tr>
-<tr>
-<td align="center">〇</td>
-<td align="center">〇</td>
-<td align="center">〇</td>
+<td align="center"></td>
 </tr>
 </tbody></table><h3>九月第一次借阅</h3>
 <ul>
