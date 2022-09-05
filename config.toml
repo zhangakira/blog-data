@@ -11,12 +11,6 @@ disqusShortname = "zhangakira"
   url = '/cn/daily/'
   weight = -110
 [[menu.main]]
-  identifier = 'archive'
-  name = '总结'
-  title = 'blog section'
-  url = '/cn/summary/'
-  weight = -100
-[[menu.main]]
   identifier = 'menu'
   name = '菜谱'
   title = 'blog section'
