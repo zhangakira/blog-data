@@ -1,26 +1,63 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/zhangakira/blog-data</id><title>RSS feed of zhangakira's blog-data</title><updated>2022-09-05T02:18:08.948647+00:00</updated><author><name>zhangakira</name><email>zhangakira1992@gmail.com</email></author><link href="https://github.com/zhangakira/blog-data"/><link href="https://raw.githubusercontent.com/zhangakira/blog-data/main/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><entry><id>https://github.com/zhangakira/blog-data/issues/2</id><title>九月</title><updated>2022-09-05T02:18:09.090420+00:00</updated><content type="html"><![CDATA[<hr />
-<h2>title: 九月
-date: 2022-09
-tags: 备忘偶然</h2>
-<p>很久没去过图书馆了，9月3号去了一次，想学王bob，计划每两周去一次。</p>
-<h3>九月第一周借阅</h3>
+<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/zhangakira/blog-data</id><title>RSS feed of zhangakira's blog-data</title><updated>2022-09-05T02:53:10.783462+00:00</updated><author><name>zhangakira</name><email>zhangakira1992@gmail.com</email></author><link href="https://github.com/zhangakira/blog-data"/><link href="https://raw.githubusercontent.com/zhangakira/blog-data/main/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><entry><id>https://github.com/zhangakira/blog-data/issues/2</id><title>九月第二周</title><updated>2022-09-05T02:53:11.223067+00:00</updated><content type="html"><![CDATA[<p>很久没去过图书馆了，9月3号去了一次，想学王bob，计划每两周去一次。
+本月又开始了多运动以及早起计划。</p>
+<h3>本周早起和运动</h3>
+<table>
+<thead>
+<tr>
+<th>6点起床</th>
+<th>两次周六野</th>
+<th>两小时阅读</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>〇</td>
+<td>〇</td>
+<td>〇</td>
+</tr>
+<tr>
+<td>〇</td>
+<td>〇</td>
+<td>〇</td>
+</tr>
+<tr>
+<td>〇</td>
+<td>〇</td>
+<td>〇</td>
+</tr>
+<tr>
+<td>〇</td>
+<td>〇</td>
+<td>〇</td>
+</tr>
+<tr>
+<td>〇</td>
+<td>〇</td>
+<td>〇</td>
+</tr>
+<tr>
+<td>〇</td>
+<td>〇</td>
+<td>〇</td>
+</tr>
+<tr>
+<td>〇</td>
+<td>〇</td>
+<td>〇</td>
+</tr>
+</tbody></table><h3>九月第一次借阅</h3>
 <ul>
-<li><input disabled="" type="checkbox"> 「メロンと」</li>
+<li><input disabled="" type="checkbox"> 「メロンと寸劇」　向田邦子</li>
 <li><input disabled="" type="checkbox"> 「養老先生、病院へ行く」　養老孟司</li>
 </ul>
-<h3>九月第二周工作</h3>
+<h3>九月第二周学习计划</h3>
 <ul>
-<li>准备接下来JavaScript developer I 考试</li>
-</ul>
-<ul>
+<li>
+准备接下来JavaScript developer I 考试<ul>
 <li><input disabled="" type="checkbox"> 过两遍问题集</li>
+<li><input disabled="" type="checkbox"> 听Saleforce讲座</li>
 </ul>
-<ul>
-<li>完成GGS版本升级后的基本测试</li>
-</ul>
-<ul>
-<li><input disabled="" type="checkbox"> 完成测试式样书，更新WBS</li>
-<li>[ ] </li>
+</li>
 </ul>
 ]]></content><link href="https://github.com/zhangakira/blog-data/issues/2" rel="alternate"/><published>2022-09-05T02:16:10+00:00</published></entry></feed>
