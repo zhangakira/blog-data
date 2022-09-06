@@ -23,4 +23,7 @@ title: 关于
 
 * [白板报](https://www.baibanbao.net/)
 
+* [GeekPlux](https://geekplux.zhubai.love/)
+
+
 
