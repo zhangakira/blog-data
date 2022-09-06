@@ -23,7 +23,17 @@ title: 关于
 
 * [白板报](https://www.baibanbao.net/)
 
-* [GeekPlux](https://geekplux.zhubai.love/)
+* [GeekPlux Lab](https://geekplux.zhubai.love/)
+
+* [好工具周刊](https://bestxtools.zhubai.love/)
+
+* [Yiqin Fu](https://yiqinfu.zhubai.love/)
+
+* [DEX 周刊](https://dex.zhubai.love/)
+
+* [The Quibbler](https://thequibbler.zhubai.love/)
+
+
 
 
 
