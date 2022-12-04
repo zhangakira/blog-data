@@ -17,6 +17,8 @@ title: 关于
 ### 博客链接
 * [王健波](https://wjianbo.github.io/cn/issues/)
 
+* [李承鹏](https://blog.wenxuecity.com/myoverview/79875/)
+
 * [谢益辉](https://yihui.org/cn/)
 
 * [于淼](https://yufree.cn/cn/)
